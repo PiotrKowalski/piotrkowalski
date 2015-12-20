@@ -1,0 +1,61 @@
+
+
+* {
+}
+body {
+  font-family: "Open Sans", sans-serif;
+  overflow-x:hidden;
+  background-color: #ecf0f1 !important;
+}
+.row {
+  padding-right: 0px !important; 
+  margin-right: 0px !important; 
+}
+.caption > h3  {
+  font-family: 'Oswald', sans-serif;
+} 
+
+.container >h1 {
+  font-family: 'Oswald', sans-serif;
+}
+
+.caption > p ,p{
+  font-family: 'Slabo 27px', serif;
+  font-size: 17px;
+}
+
+.jumbotron{
+  background-image: url();
+  width: 100%;
+  background-color: #7f8c8d !important;
+}
+
+
+.thumbnail > img {
+  height: 100px;
+}
+
+.p_koalas {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 50px
+}
+
+
+footer {
+  margin-top: 30px;
+  padding-top: 50px
+  height: 200px;
+  background-color: #7f8c8d;
+}
+address {
+  padding-top: 40px;
+}
+address > p{
+  margin-top: -7px;
+}
+
+.navbar-default {
+  z-index:1;
+}
+
